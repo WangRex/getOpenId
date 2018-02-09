@@ -1,0 +1,2 @@
+# getOpenId
+getOpenId
